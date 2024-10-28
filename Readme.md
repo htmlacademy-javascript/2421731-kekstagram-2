@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Nikita Vasilev](https://up.htmlacademy.ru/javascript-individual/2/user/2421731).
-* Наставник: `Неизвестно`.
+* Наставник: `Евгений Лепёшкин`.
 
 ---
 
